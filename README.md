@@ -1,7 +1,9 @@
 # 2016HackNTU
 ## 安裝
 環境： node.js 0.12up，身為 hacker 就應該知道怎麼去安裝ㄏㄏ~~  
-clone 下來先 `npm i`
+clone 下來先 `npm i`  
+把 `config.js.example` copy 成 `config.js`  來調整 config  
+忘記 copy 會壞掉喔～～～  
 
 ##啟動
 `npm start` node app.js 不會 work 喔～～  
