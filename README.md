@@ -19,3 +19,4 @@ clone 下來先 `npm i`
 開完後大家一起驗證的功能後覺得 ok 就把他 merge 進去吧～  
 `master` branch 是用來做 release 版本用的，沒事請不要推到 master 喔^.<  
 
+##cowabunga
